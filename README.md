@@ -26,15 +26,14 @@ A **real-time, interactive student dashboard** built with **Next.js** and **Reac
 ## 📸 Demo
 
 ### Landing Page
-![Landing Page](./public/landing-page.png)
+
+<img width="1920" height="1080" alt="Screenshot (498)" src="https://github.com/user-attachments/assets/9cf901bb-7698-4975-ab35-cdbcd7c5e080" />
 
 ### Dashboard Overview
-![Dashboard Overview](./public/dashboard-overview.png)
 
-### Animated Charts
-![Charts Animation](./public/charts-animation.gif)
 
-*(Replace with your actual screenshots and GIFs in the `public` folder)*
+<img width="1920" height="1080" alt="Screenshot (499)" src="https://github.com/user-attachments/assets/8ad2f65a-af53-4301-8240-c75fbf0916ee" />
+
 
 ---
 
