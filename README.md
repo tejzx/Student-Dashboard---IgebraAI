@@ -124,8 +124,3 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 **Tejashree Ramesh**
-
-* GitHub: (https://github.com/tejzx)
-* LinkedIn: \[Your LinkedIn URL]
-Do you want me to do that next?
-```
